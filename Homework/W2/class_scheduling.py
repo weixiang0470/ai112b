@@ -43,6 +43,8 @@ slots = [
 ]
 
 sch=[0]* len(slots)
+sch_init=[0]* len(slots)
+
 def randSlot() :
     return randint(0, len(slots)-1)
 
@@ -50,7 +52,8 @@ def randCourse() :
     return randint(0, len(courses)-1)
 
 def hillClimbing(sch, height, neighbor, max_fail):
-    init(sch)
+    global sch_init
+    sch_init = init(sch)
     fail = 0
     while True:
         nsch = neighbor(sch)
@@ -117,4 +120,4 @@ result,score,fail = hillClimbing(sch, height, neighbour, max_fail=90000)
 
 str(result,score,fail)
 
-str(init(sch),0,0)
+str(sch_init,0,0)
