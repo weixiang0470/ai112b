@@ -1,0 +1,5 @@
+[MagicMirror](https://github.com/weixiang0470/MagicMirror)
+[這堂課筆記](https://github.com/weixiang0470/NQU_112b/tree/main/Artificial_Intelligence)
+[AI 實務筆記](https://github.com/weixiang0470/NQU_112b/tree/main/AI_Practice)
+[AI 實務作業](https://github.com/weixiang0470/NQU_112b/tree/main/AI_Practice/Homework)
+[乒乓球落點分析](https://github.com/weixiang0470/ai112b/tree/master/midterm/PP)
