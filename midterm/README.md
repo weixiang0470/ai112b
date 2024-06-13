@@ -3,3 +3,4 @@
 - [AI 實務筆記](https://github.com/weixiang0470/NQU_112b/tree/main/AI_Practice)
 - [AI 實務作業](https://github.com/weixiang0470/NQU_112b/tree/main/AI_Practice/Homework)
 - [乒乓球落點分析](https://github.com/weixiang0470/ai112b/tree/master/midterm/PP)
+- [藥物分析](https://github.com/weixiang0470/ai112b/tree/master/midterm/Medicine)
