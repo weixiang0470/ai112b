@@ -1,0 +1,5 @@
+- 參考老師的來修改
+- pip
+    - Mac : `pip install 'gymnasium[classic-control]'`
+    - Windows : `pip install gymnasium[classic-control]`
+- 目前2000還沒死
